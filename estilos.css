@@ -1,0 +1,10 @@
+p{
+	color: red;
+	font-family: 'arial';
+	margin: 50px;
+}
+img{
+	float: right;
+	border: 1px solid blue;
+	margin: 50px;
+}

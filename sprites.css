@@ -1,0 +1,38 @@
+#Menu ul li{
+	display: inline;
+}
+#Menu ul li a{
+	float: left;
+	width: 82px;
+	height: 78px;
+	display: block;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	background: url('jojo.jpg') no-repeat scroll 0 0 transparent;
+}
+#Menu ul li.Home a{
+	background: url('home1.jpg');
+	background-position: 0px 0px;
+}
+#Menu ul li.Agenda a{
+	background: url('agenda1.jpg');
+	background-position: -91px 0px;
+}
+#Menu ul li.Contato a{
+	background: url('contato1.jpg');
+	background-position: -181px 0px;
+}
+#Menu ul li.Home a:hover{
+	background: url('home2.jpg');
+	background-position: 0px -78px;
+}
+#Menu ul li.Agenda a:hover{
+	background: url('agenda2.jpg');
+	background-position: -91px -78px;
+}
+#Menu ul li.Contato a:hover{
+	background: url('contato2.jpg');
+	background-position: -181px -78px;
+}

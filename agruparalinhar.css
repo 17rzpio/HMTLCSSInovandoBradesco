@@ -1,0 +1,49 @@
+#inicio{
+	position: relative;
+top:100px;
+	left:300px;
+}
+a{
+	color: blue;
+}
+a.virtuais{
+	color: #FF0000;
+}
+a.estrategia{
+	color: #11cc00;
+}
+#c1-2{
+	color:blue;
+
+}
+span.alimento {color: red;}
+#insetos {
+	background:#FFEAEA;
+}
+#repteis {
+	background: #FFF7DD;
+}
+#alfabeto {
+	margin-top: 100px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+	margin-left: 70px;
+	/*margin: 100px 40px 10px 70px;*/
+	padding-left: 50px;
+	background-color: yellow;
+
+}
+#titulo {
+	background-color: orange;
+	padding 10px 10px 10px 30px;
+	clear: both;
+}
+#foto{
+
+	float:right;
+
+
+}
+#foto2{
+		position: absolute;
+}
